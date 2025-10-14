@@ -23,19 +23,19 @@ This repo accompanies the paper “[The Geometry of Reasoning: Flowing Logics in
 
 We study how large language models (LLMs) **reason through their embeddings** by introducing a **geometric framework of reasoning flows**, where reasoning unfolds as trajectories in representation space.
 
----
+
 
 By **disentangling logic from semantics**—using identical natural deduction propositions expressed through diverse semantic carriers—we test whether LLMs internalize logical structure beyond surface form.
 Our framework links reasoning to **geometric quantities** such as **position, velocity, and curvature**, enabling formal analysis of concept manifolds.
 
----
+
 
 We show that:
 
 1. **LLM reasoning forms smooth flows** in embedding space.
 2. **Logical statements act as local controllers** governing the velocity of these flows.
 
----
+
 
 Using learned representation of trained LLMs, we visualize and quantify reasoning dynamics, offering **both theoretical foundations and empirical tools** for studying interpretability and reasoning behavior.
 
@@ -56,6 +56,8 @@ See the full paper for theoretical details:
 
 
 ## Visualizations
+
+**PCA Visualization**
 
 To build intuition, we visualized reasoning flows using PCA on a selected MATH500 problem with six different answers.
 
@@ -173,7 +175,7 @@ year    = {2025}
 
 ## Contact
 
-😊 Questions? Ideas? Interested in collaborating?  
+😊 Questions? Ideas? Interested in collaborating on this exciting research?  
 
 Feel free to reach out to Yufa Zhou at [yufa.zhou@duke.edu](mailto:yufa.zhou@duke.edu)—always happy to connect!
 
