@@ -37,7 +37,7 @@ We show that:
 
 
 
-Using learned representation of trained LLMs, we visualize and quantify reasoning dynamics, offering **both theoretical foundations and empirical tools** for studying interpretability and reasoning behavior.
+Using learned representations of trained LLMs, we visualize and quantify reasoning dynamics, offering **both theoretical foundations and empirical tools** for studying interpretability and reasoning behavior.
 
 
 ## Key Findings
