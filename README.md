@@ -175,6 +175,16 @@ year    = {2025}
 }
 ```
 
+```
+@inproceedings{zhou2025geometry,
+title     = {The Geometry of Reasoning: Flowing Logics in Representation Space},
+author    = {Zhou, Yufa and Wang, Yixiao and Yin, Xunjian and Zhou, Shuyan and Zhang, Anru R.},
+booktitle = {The Fourteenth International Conference on Learning Representations},
+year      = {2026},
+url       = {https://openreview.net/forum?id=ixr5Pcabq7}
+}
+```
+
 ## Contact
 
 😊 Questions? Ideas? Interested in collaborating on this exciting research?  
