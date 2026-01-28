@@ -3,7 +3,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2510.09782-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2510.09782)
 [![GitHub](https://img.shields.io/badge/GitHub-Reasoning--Flow-181717?logo=github)](https://github.com/MasterZhou1/Reasoning-Flow)
 [![HF Dataset](https://img.shields.io/badge/HF%20Datasets-Reasoning--Flow-ff8b2f?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/MasterZhou/Reasoning-Flow)
+[![OpenReview](https://img.shields.io/badge/OpenReview-Reasoning--Flow-ff8b2f?logo=openreview&logoColor=white)](https://openreview.net/forum?id=ixr5Pcabq7)
 
+*ICLR 2026*
 
 **Authors:**
 [**Yufa Zhou***](https://masterzhou1.github.io/), [**Yixiao Wang***](https://yixiao-wang-stats.github.io/), [**Xunjian Yin***](https://xunjianyin.github.io/),
