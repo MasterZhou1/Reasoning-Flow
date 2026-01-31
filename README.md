@@ -167,15 +167,6 @@ python generate_dataset.py \
 If you find this useful, please cite the paper:
 
 ```
-@article{zhou2025geometry,
-title   = {The Geometry of Reasoning: Flowing Logics in Representation Space},
-author  = {Zhou, Yufa and Wang, Yixiao and Yin, Xunjian and Zhou, Shuyan and Zhang, Anru R.},
-journal = {arXiv preprint arXiv:2510.09782},
-year    = {2025}
-}
-```
-
-```
 @inproceedings{zhou2025geometry,
 title     = {The Geometry of Reasoning: Flowing Logics in Representation Space},
 author    = {Zhou, Yufa and Wang, Yixiao and Yin, Xunjian and Zhou, Shuyan and Zhang, Anru R.},
